@@ -1,6 +1,6 @@
 # Hash Crack
 
-Hash Buster is an advanced hash-cracking tool that supports:
+Hash Crack is an advanced hash-cracking tool that supports:
 - **Core Hashing Functions** (MD5, SHA1, SHA256, SHA512)
 - **Offline Cracking** using wordlists
 - **AI-based Hash Prediction** with deep learning
