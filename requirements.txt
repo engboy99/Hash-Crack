@@ -1,0 +1,4 @@
+requests
+tensorflow
+numpy
+asyncio
